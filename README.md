@@ -51,4 +51,4 @@ The goal of this project is to analyze meteorological data and develop classific
 
 The project demonstrates how different machine learning models perform on real-world weather data and highlights the importance of feature engineering and model tuning in improving prediction accuracy.
 
-## Project Structure
+
